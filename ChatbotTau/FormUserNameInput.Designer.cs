@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormUserNameInput));
             this.labelTask = new System.Windows.Forms.Label();
             this.textBoxInput = new System.Windows.Forms.TextBox();
             this.buttonOK = new System.Windows.Forms.Button();
@@ -71,9 +72,10 @@
             this.Controls.Add(this.buttonOK);
             this.Controls.Add(this.textBoxInput);
             this.Controls.Add(this.labelTask);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormUserNameInput";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FormUserNameInput";
+            this.Text = "Ввод ника.";
             this.ResumeLayout(false);
             this.PerformLayout();
 

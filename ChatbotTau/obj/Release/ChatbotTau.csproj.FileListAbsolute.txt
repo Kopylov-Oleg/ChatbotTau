@@ -1,0 +1,10 @@
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\bin\Release\ChatbotTau.exe.config
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\bin\Release\ChatbotTau.exe
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\bin\Release\ChatbotTau.pdb
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\obj\Release\ChatbotTau.csprojResolveAssemblyReference.cache
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\obj\Release\ChatbotTau.FormMain.resources
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\obj\Release\ChatbotTau.FormUserNameInput.resources
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\obj\Release\ChatbotTau.Properties.Resources.resources
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\obj\Release\ChatbotTau.csproj.GenerateResource.Cache
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\obj\Release\ChatbotTau.exe
+C:\Users\Ssnik\documents\visual studio 2017\Projects\ChatbotTau\ChatbotTau\obj\Release\ChatbotTau.pdb

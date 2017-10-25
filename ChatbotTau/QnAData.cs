@@ -9,6 +9,20 @@ namespace ChatbotTau
     static class QnAData
     {
         static List<QnA> QnAList;
+        static string defanswer = "Понятно.";
+        static string defstart = "Привет. Я не бот. Давай общаться.";
+
+        public static Random rng = new Random();
+
+        public static string DefaultStart()
+        {
+            return defstart;
+        }
+
+        public static string DefaultAnswer()
+        {
+            return defanswer;
+        }
 
         public static void CreateQnAList()
         {
