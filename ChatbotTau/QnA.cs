@@ -16,7 +16,7 @@ namespace ChatbotTau
             get { return question; }
         }
 
-        public string GetAnswer(string userWord) //получение ответа на вопрос по фразе пользователя, "default", если ответ не найден
+        public string GetAnswer(string userWord) //получение ответа на вопрос по слову фразы пользователя, null, если ответ не найден
         {
             for(int i = 0; i < answersList.Count; i++)
             {
